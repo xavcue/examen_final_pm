@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "815941442652",
+    "firebase_url": "https://examen-final-708cb-default-rtdb.firebaseio.com",
+    "project_id": "examen-final-708cb",
+    "storage_bucket": "examen-final-708cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815941442652:android:1c33ef269b41a4acbf1a99",
+        "android_client_info": {
+          "package_name": "com.example.examen_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEqWiocy64hrhc2XSClUgfZH_SSHlURzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
